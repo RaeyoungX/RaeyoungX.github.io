@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title> 🐑 💗 🐿️ </title>
+        <link>https://example.com/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.92.1 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+        
+        
+        <lastBuildDate>Tue, 08 Mar 2022 20:33:08 -0500</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+        
+        
+            <item>
+                <title>一些别的话</title>
+                <link>https://example.com/posts/%E4%B8%80%E4%BA%9B%E5%88%AB%E7%9A%84%E8%AF%9D/</link>
+                <guid isPermaLink="true">https://example.com/posts/%E4%B8%80%E4%BA%9B%E5%88%AB%E7%9A%84%E8%AF%9D/</guid>
+                <pubDate>Fri, 04 Mar 2022 20:19:06 -0500</pubDate>
+                
+                
+                
+                    <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;不要有心理压力哟&lt;/p&gt;
+&lt;p&gt;我所做的一切也是为了我自己&lt;/p&gt;
+&lt;p&gt;为了能最大程度的和你在一起&lt;/p&gt;
+&lt;p&gt;和你在一起真的很幸福很满足呢&lt;/p&gt;
+&lt;p&gt;真的是生理上都能感觉到的踏实&lt;/p&gt;
+&lt;p&gt;都不做噩梦了&lt;/p&gt;
+&lt;p&gt;我喜欢为你付出&lt;/p&gt;
+&lt;p&gt;我可以从付出本身获得快乐&lt;/p&gt;
+&lt;p&gt;你不需要做什么&lt;/p&gt;
+&lt;p&gt;同样 我也能从为你改变获得快乐&lt;/p&gt;
+&lt;p&gt;可能你会有点理解不了&lt;/p&gt;
+&lt;p&gt;其实有点怕你觉得我幼稚 不理智&lt;/p&gt;
+&lt;p&gt;我想过很多的&lt;/p&gt;
+&lt;p&gt;在一起真的挺不容易的&lt;/p&gt;
+&lt;p&gt;分析过loss和profit&lt;/p&gt;
+&lt;p&gt;还是在一起让我快乐些&lt;/p&gt;
+&lt;p&gt;之所以这么耍无赖 不要脸&lt;/p&gt;
+&lt;p&gt;是觉得如果我不主动 我们就没故事了&lt;/p&gt;
+&lt;p&gt;也挺担心给你压力和困扰&lt;/p&gt;
+&lt;p&gt;希望你真的开开心心的答应我&lt;/p&gt;
+&lt;p&gt;不过这些都是我自己的选择&lt;/p&gt;
+&lt;p&gt;你不需要有压力&lt;/p&gt;
+&lt;p&gt;如果你还是有压力&lt;/p&gt;
+&lt;p&gt;你可以这么想&lt;/p&gt;
+&lt;p&gt;我做这些事情的时候都很快乐&lt;/p&gt;
+&lt;p&gt;而且看你快乐 我也快乐&lt;/p&gt;
+&lt;p&gt;当然最好的是我们都快乐&lt;/p&gt;
+&lt;p&gt;我不觉得自己牺牲了什么&lt;/p&gt;
+&lt;p&gt;反而是你 让我学会理解 和 放下偏见&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%BB%99%E8%88%92%E6%89%AC/">给舒扬</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%88%91%E7%88%B1%E4%BD%A0/">我爱你</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>关于你</title>
+                <link>https://example.com/posts/%E5%85%B3%E4%BA%8E%E4%BD%A0/</link>
+                <guid isPermaLink="true">https://example.com/posts/%E5%85%B3%E4%BA%8E%E4%BD%A0/</guid>
+                <pubDate>Fri, 04 Mar 2022 20:19:06 -0500</pubDate>
+                
+                
+                
+                    <description>&lt;h2 id=&#34;最喜欢的书&#34;&gt;最喜欢的书&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;美丽新世界&lt;/li&gt;
+&lt;li&gt;金阁寺&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（喜欢乌托邦题材的书&lt;/p&gt;
+&lt;p&gt;爱看的电影&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;霸王别姬&lt;/li&gt;
+&lt;li&gt;太空漫游2001&lt;/li&gt;
+&lt;li&gt;佛罗里达乐园&lt;/li&gt;
+&lt;li&gt;低俗小说&lt;/li&gt;
+&lt;li&gt;铁皮鼓&lt;/li&gt;
+&lt;li&gt;菊次郎的夏天&lt;/li&gt;
+&lt;li&gt;时间规划局&lt;/li&gt;
+&lt;li&gt;巴里林登&lt;/li&gt;
+&lt;li&gt;红辣椒&lt;/li&gt;
+&lt;li&gt;妄想代理人&lt;/li&gt;
+&lt;li&gt;纳粹高徒&lt;/li&gt;
+&lt;li&gt;猜火车&lt;/li&gt;
+&lt;li&gt;谁先爱上他的&lt;/li&gt;
+&lt;li&gt;刺青
+...&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%BB%99%E8%88%92%E6%89%AC/">给舒扬</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%88%91%E7%88%B1%E4%BD%A0/">我爱你</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>喜欢你</title>
+                <link>https://example.com/posts/%E5%96%9C%E6%AC%A2%E4%BD%A0/</link>
+                <guid isPermaLink="true">https://example.com/posts/%E5%96%9C%E6%AC%A2%E4%BD%A0/</guid>
+                <pubDate>Fri, 04 Mar 2022 20:19:06 -0500</pubDate>
+                
+                
+                
+                    <description> &lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;https://example.com//music.163.com/outchain/player?type=2&amp;id=1484156281&amp;auto=1&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;喜欢你&#34;&gt;喜欢你&lt;/h2&gt;
+&lt;p&gt;喜欢你对待我的方式 更喜欢你&lt;/p&gt;
+&lt;p&gt;喜欢和你待在一起的感觉&lt;/p&gt;
+&lt;p&gt;无比的踏实和放松&lt;/p&gt;
+&lt;p&gt;喜欢你安慰我时的温柔&lt;/p&gt;
+&lt;p&gt;喜欢你从不吝啬得夸我&lt;/p&gt;
+&lt;p&gt;喜欢你无微不至的照顾&lt;/p&gt;
+&lt;p&gt;感动于你在背后默默的付出&lt;/p&gt;
+&lt;p&gt;最初的吸引可能是陪伴和温暖，&lt;/p&gt;
+&lt;p&gt;但是相处中我慢慢放下了偏见，喜欢上了你&lt;/p&gt;
+&lt;p&gt;我喜欢你大大咧咧背后不经意流露出的细腻&lt;/p&gt;
+&lt;p&gt;喜欢你认真对待宠物的温柔&lt;/p&gt;
+&lt;p&gt;喜欢你的博学&lt;/p&gt;
+&lt;p&gt;喜欢你的倔强&lt;/p&gt;
+&lt;p&gt;喜欢你对世界不同的包容&lt;/p&gt;
+&lt;p&gt;喜欢你对道德的态度&lt;/p&gt;
+&lt;p&gt;喜欢你说自己吊儿郎当，却还是在努力&lt;/p&gt;
+&lt;p&gt;喜欢你说自己要啃老，却还是努力自立&lt;/p&gt;
+&lt;p&gt;喜欢你偶尔展现出来的脆弱&lt;/p&gt;
+&lt;p&gt;喜欢你努力爱自己的样子&lt;/p&gt;
+&lt;p&gt;喜欢你对自己热爱的事情认真的态度&lt;/p&gt;
+&lt;p&gt;喜欢你偶尔像个小女生一样撒娇&lt;/p&gt;
+&lt;p&gt;喜欢你嘴上说不在乎的样子&lt;/p&gt;
+&lt;p&gt;喜欢你不正经背后的正经&lt;/p&gt;
+&lt;p&gt;喜欢你不批判开放的态度&lt;/p&gt;
+&lt;p&gt;当然 你也幽默 聪明 可爱 善良&lt;/p&gt;
+&lt;p&gt;也心疼 心疼你把不在乎当作盔甲&lt;/p&gt;
+&lt;p&gt;心疼你 吐烟时深呼吸的节奏&lt;/p&gt;
+&lt;p&gt;心疼你 用酒精麻痹痛苦&lt;/p&gt;
+&lt;p&gt;心疼你  心疼你把自恋当防卫&lt;/p&gt;
+&lt;p&gt;心疼你 不想让我改变&lt;/p&gt;
+&lt;p&gt;心疼 你爱人如爱己&lt;/p&gt;
+&lt;p&gt;心疼 你对感情悲观的态度&lt;/p&gt;
+&lt;p&gt;心疼 你对自己情绪的压制&lt;/p&gt;
+&lt;p&gt;感谢你 让我知道爱自己&lt;/p&gt;
+&lt;p&gt;感谢你 让我愿意去爱你&lt;/p&gt;
+&lt;p&gt;感谢你 让我和我自己和解&lt;/p&gt;
+&lt;p&gt;我怎么会被pua呢&lt;/p&gt;
+&lt;p&gt;你从来没叫我改变&lt;/p&gt;
+&lt;p&gt;也没说我不好&lt;/p&gt;
+&lt;p&gt;打压我的人 我早就离得很远了&lt;/p&gt;
+&lt;p&gt;和你在一起 我真的很幸福&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%BB%99%E8%88%92%E6%89%AC/">给舒扬</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%88%91%E7%88%B1%E4%BD%A0/">我爱你</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>我不止喜欢你</title>
+                <link>https://example.com/posts/%E6%88%91%E4%B8%8D%E6%AD%A2%E5%96%9C%E6%AC%A2%E4%BD%A0/</link>
+                <guid isPermaLink="true">https://example.com/posts/%E6%88%91%E4%B8%8D%E6%AD%A2%E5%96%9C%E6%AC%A2%E4%BD%A0/</guid>
+                <pubDate>Fri, 04 Mar 2022 20:19:06 -0500</pubDate>
+                
+                
+                
+                    <description>&lt;h2 id=&#34;我不止喜欢你&#34;&gt;我不止喜欢你&lt;/h2&gt;
+&lt;p&gt;顾舒扬：&lt;/p&gt;
+&lt;p&gt;我肯定是中了你下的蛊。&lt;/p&gt;
+&lt;p&gt;想你，想见你，想看着你，想你的笑&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;真的好想你，想你想的睡不着，闭上眼睛脑海里都是你。&lt;/p&gt;
+&lt;p&gt;看完了你所有的朋友圈，又重新把你设为了置顶，备注改来改去，&lt;/p&gt;
+&lt;p&gt;又改回了你的名字，顾舒扬。&lt;/p&gt;
+&lt;p&gt;反复点进你的朋友圈，却还是不敢和你说些什么，好怕轻举妄动会让你反感我。&lt;/p&gt;
+&lt;p&gt;5号为什么还有会这么久，我真的想昏睡过去，直到你回来。&lt;/p&gt;
+&lt;p&gt;想飞到多伦多去找你，第一次希望假期早点可以结束。&lt;/p&gt;
+&lt;p&gt;我真的很在乎很在乎你，我后悔了。&lt;/p&gt;
+&lt;p&gt;我不想分开，求你了呜呜呜&lt;/p&gt;
+&lt;p&gt;比起一文不值的面子，没有什么比顾舒扬重要。&lt;/p&gt;
+&lt;p&gt;我可以改变，并不会觉得难受和失去自我，也并不算是你push我的。&lt;/p&gt;
+&lt;p&gt;我真的也爱你，&lt;/p&gt;
+&lt;p&gt;反复想起你说的话，我真的好心疼好心疼，心疼到胸闷吃不下饭。&lt;/p&gt;
+&lt;p&gt;宝宝，对不起！&lt;/p&gt;
+&lt;p&gt;我不该死傲娇，不该好面子。&lt;/p&gt;
+&lt;p&gt;我真的很想很想被你需要，每次你让我离开的时候，我都好难过。&lt;/p&gt;
+&lt;p&gt;你可以什么都不用做，但是我只希望你需要我。&lt;/p&gt;
+&lt;p&gt;这几天我想了很多，查了好多乱七八糟的问题，纠结反复。&lt;/p&gt;
+&lt;p&gt;我明白过了这段时间，可能就没什么缘分了，但也不想草率的决定，再次重蹈覆辙伤害你。&lt;/p&gt;
+&lt;p&gt;你说你曾经喜欢过我，&lt;/p&gt;
+&lt;p&gt;好吧。就算你现在没那么喜欢我了，也没关系。&lt;/p&gt;
+&lt;p&gt;我真的真的不希望再让你难过，但又真的真的不想错过。&lt;/p&gt;
+&lt;p&gt;可以给我一次机会吗，这一次换我抱着你吧！&lt;/p&gt;
+&lt;p&gt;不行的话，可以让我追你吗，不要推开我就行。&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;爱你！祝你天天开心，祝你身体健康，祝你幸福！&lt;/p&gt;
+&lt;p&gt;                      ruiyang&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%BB%99%E8%88%92%E6%89%AC/">给舒扬</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%88%91%E7%88%B1%E4%BD%A0/">我爱你</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>浮生若梦</title>
+                <link>https://example.com/posts/%E6%B5%AE%E7%94%9F%E8%8B%A5%E6%A2%A6/</link>
+                <guid isPermaLink="true">https://example.com/posts/%E6%B5%AE%E7%94%9F%E8%8B%A5%E6%A2%A6/</guid>
+                <pubDate>Fri, 04 Mar 2022 20:19:06 -0500</pubDate>
+                
+                
+                
+                    <description>&lt;p&gt;3.8&lt;/p&gt;
+&lt;p&gt;下午起床发现你不在家，那一刻突然明白了什么叫做醒来发现甚是爱你。&lt;/p&gt;
+&lt;p&gt;好想看你“无理取闹”地和我撒娇哈哈哈&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%BB%99%E8%88%92%E6%89%AC/">给舒扬</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%88%91%E7%88%B1%E4%BD%A0/">我爱你</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>舒扬爱自己的一百个理由</title>
+                <link>https://example.com/posts/%E8%88%92%E6%89%AC%E7%88%B1%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E7%99%BE%E4%B8%AA%E7%90%86%E7%94%B1/</link>
+                <guid isPermaLink="true">https://example.com/posts/%E8%88%92%E6%89%AC%E7%88%B1%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E7%99%BE%E4%B8%AA%E7%90%86%E7%94%B1/</guid>
+                <pubDate>Fri, 04 Mar 2022 20:19:06 -0500</pubDate>
+                
+                
+                
+                    <description>&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;https://example.com//music.163.com/outchain/player?type=2&amp;id=1353757543&amp;auto=1&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;1 因为你是顾舒扬&lt;/p&gt;
+&lt;p&gt;2 舒扬很会做饭&lt;/p&gt;
+&lt;p&gt;3 舒扬很有爱心&lt;/p&gt;
+&lt;p&gt;4 舒扬很善良&lt;/p&gt;
+&lt;p&gt;5 舒扬很坚强&lt;/p&gt;
+&lt;p&gt;6 舒扬很开放&lt;/p&gt;
+&lt;p&gt;7 舒扬很认真&lt;/p&gt;
+&lt;p&gt;8 舒扬很正义&lt;/p&gt;
+&lt;p&gt;9 舒扬很能干&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%BB%99%E8%88%92%E6%89%AC/">给舒扬</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%88%91%E7%88%B1%E4%BD%A0/">我爱你</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>让我想到你的歌</title>
+                <link>https://example.com/posts/%E6%AD%8C/</link>
+                <guid isPermaLink="true">https://example.com/posts/%E6%AD%8C/</guid>
+                <pubDate>Fri, 04 Mar 2022 20:19:06 -0500</pubDate>
+                
+                
+                
+                    <description>&lt;h2 id=&#34;让我想到你的歌&#34;&gt;让我想到你的歌&lt;/h2&gt;
+&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;https://example.com//music.163.com/outchain/player?type=2&amp;id=1484156281&amp;auto=1&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;https://example.com//music.163.com/outchain/player?type=2&amp;id=1408471216&amp;auto=1&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;https://example.com//music.163.com/outchain/player?type=2&amp;id=1431918739&amp;auto=1&amp;height=66&#34;&gt;&lt;/iframe&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%BB%99%E8%88%92%E6%89%AC/">给舒扬</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%88%91%E7%88%B1%E4%BD%A0/">我爱你</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
